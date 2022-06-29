@@ -1,2 +1,7 @@
-# react-redux-toolkit-course
-Simple for tech.
+# Simple Project
+
+
+### Description
+
++ React-app
++ REDUX-TOOLKIT
